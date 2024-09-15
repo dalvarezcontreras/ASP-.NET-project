@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\israe\\Downloads\\EmptyProject\\wwwroot\\WF.jpg",
+      "PackagePath": "staticwebassets\\WF.jpg"
+    },
+    {
+      "Id": "C:\\Users\\israe\\Downloads\\EmptyProject\\wwwroot\\avenger.jpg",
+      "PackagePath": "staticwebassets\\avenger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\israe\\Downloads\\EmptyProject\\wwwroot\\interstellar.jpg",
+      "PackagePath": "staticwebassets\\interstellar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\israe\\Downloads\\EmptyProject\\wwwroot\\movies.html",
+      "PackagePath": "staticwebassets\\movies.html"
+    },
+    {
+      "Id": "C:\\Users\\israe\\Downloads\\EmptyProject\\wwwroot\\scripts.js",
+      "PackagePath": "staticwebassets\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\israe\\Downloads\\EmptyProject\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmptyProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EmptyProject.props",
+      "PackagePath": "build\\EmptyProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EmptyProject.props",
+      "PackagePath": "buildMultiTargeting\\EmptyProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EmptyProject.props",
+      "PackagePath": "buildTransitive\\EmptyProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
