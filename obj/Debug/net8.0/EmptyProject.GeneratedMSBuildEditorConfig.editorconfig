@@ -17,3 +17,11 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\israe\Downloads\EmptyProject
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/israe/Downloads/EmptyProject/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/israe/Downloads/EmptyProject/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
